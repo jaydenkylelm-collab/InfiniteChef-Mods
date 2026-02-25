@@ -16,4 +16,13 @@ color:"#291d13",
 adj:"oreo"
 });
 
-//just 2 of them, more coming soon
+
+addingredient("Sphere",{
+  type:"shape",
+  shape:"circle",
+  color:"#ff3c2e",
+  adj:"ball"
+
+
+  //Update! (by a different creator)
+  
